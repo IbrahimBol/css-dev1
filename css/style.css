@@ -1,0 +1,50 @@
+h1 {
+  color: rgb(9, 116, 158);
+  font-size: 40px;
+}
+.ilk {
+  font-size: 20px;
+  color: black;
+}
+
+h4 {
+  color: rgb(236, 4, 4);
+}
+
+li {
+  color: green;
+}
+
+.hakkımızda {
+  font-size: 30px;
+}
+
+h2 {
+  color: rgb(9, 116, 158);
+  font-size: 14px;
+}
+.merkez {
+  color: mediumblue;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.son {
+  font-size: 14px;
+  font-weight: bold;
+  color: red;
+  font-style: italic;
+}
+
+h5 {
+  font-size: 25px;
+  color: lime;
+}
+.car {
+  font-size: 18px;
+  color: maroon;
+}
+
+.number {
+  color: navy;
+}
